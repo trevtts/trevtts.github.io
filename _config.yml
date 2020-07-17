@@ -101,7 +101,7 @@ author:
   email            : 
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelop"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:treventantheasheng@yahoo.com.sg"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -125,6 +125,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:treventantheasheng@yahoo.com.sg"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ttts"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
