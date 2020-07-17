@@ -93,15 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Treven Tan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Year 3 under-graduate that is current studying at DigiPen and looking for internship."
+  location         : "Singapore"
+  email            : "treventantheasheng@yahoo.com.sg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:treventantheasheng@yahoo.com.sg"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "www.linkedin.com/in/ttts"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
