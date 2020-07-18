@@ -1,7 +1,7 @@
 ---
 title:  "First Post!"
 header:
-  image: /assets/images/mt-rainer.jpg
+  image: /assets/images/test.jpg
   caption: "My best shot at Mt. Rainer after a cloudy afternoon"
 tags: 
   - Amateur Photography
