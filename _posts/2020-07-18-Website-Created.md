@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "First Post!"
+---
+
+# Welcome to my Portfolio website
+
+This is my first post, while the rest of the site is still under construction. 
+Please bear with me as I try to get the site's content up and running within these few days.
+The website will not only contain all my previous student project, but will also contain some of my personal post too.
