@@ -12,12 +12,13 @@ sidebar:
   - title: "Responsibilities"
     text: "Manager of the development team, and the handyman there to fix any small issues"
   - title: "Development Details"
-    text: "**Status**: Completed    
-           **Product Type**: Game    
-           **Team Size**: 10    
-           **Developed Platform**: Custom Game Engine  
-           **Development Duration**: 8 Months  
-           **Language Used**: C++, C#"
+    children:
+        - title: "**Status**: Completed"
+        - title: "**Product Type**: Game"
+        - title: "**Team Size**: 10"
+        - title: "**Developed Platform**: Custom Game Engine"
+        - title: "**Development Duration**: 8 Months"
+        - title: "**Language Used**: C++, C#""
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
