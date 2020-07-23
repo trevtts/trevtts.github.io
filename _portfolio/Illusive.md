@@ -12,9 +12,9 @@ sidebar:
   - title: "Responsibilities"
     text: "Manager of the development team, and the handyman there to fix any small issues"
   - title: "Development Details"
-    text: "**Status**: Completed  
-           **Product Type**: Game  
-           **Team Size**: 10  
+    text: "**Status**: Completed    
+           **Product Type**: Game    
+           **Team Size**: 10    
            **Developed Platform**: Custom Game Engine  
            **Development Duration**: 8 Months  
            **Language Used**: C++, C#"
