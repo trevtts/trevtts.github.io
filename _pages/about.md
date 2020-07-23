@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: single
+layout: page
 ---
 
 # This page is under construction
