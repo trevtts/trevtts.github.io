@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-Click [here]({% link assets/Resume_TrevenTan.pdf %}) for the resume PDF.
+[PDF Resume]({% link assets/Resume_TrevenTan.pdf %}) Last Updated 23/07/2020
 
 ---
 
@@ -33,6 +33,6 @@ Click [here]({% link assets/Resume_TrevenTan.pdf %}) for the resume PDF.
 
 ---
 
-## **Education
+## **Education**
 
 
