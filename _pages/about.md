@@ -7,5 +7,3 @@ toc: true
 ---
 
 # This page is still currently under construction
-
-{% pdf "/assets/Resume_TrevenTan.pdf" %}
