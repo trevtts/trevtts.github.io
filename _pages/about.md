@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: About Me
 permalink: /about/
 layout: single
 author_profile: true
 toc: true
 ---
 
-# This page is currently under construction
+# This page is still currently under construction
+
+{% pdf "/assets/Resume_TrevenTan.pdf" %}
