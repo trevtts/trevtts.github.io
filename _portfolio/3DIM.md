@@ -4,7 +4,7 @@ excerpt: "3D Interactive Map for VR"
 classes: wide
 header:
   image: /assets/images/3DIM-Cover.jpg
-  teaser: 3DIM-Cover
+  teaser: "3DIM-Cover"
 sidebar:
   - title: "My Role"
     image: /assets/images/3DIM-Cover.jpg
