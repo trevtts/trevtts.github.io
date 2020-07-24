@@ -3,11 +3,11 @@ title: "3DIM"
 excerpt: "3D Interactive Map for VR"
 classes: wide
 header:
-  image: #/assets/images/test.jpg
-  teaser: # assets/images/test.jpg
+  image: /assets/images/3DIM-cover.jpg
+  teaser: 3DIM-cover
 sidebar:
   - title: "My Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/3DIM-cover.jpg
     image_alt: "logo"
     text: "Tools Developer and Back-end Developer"
   - title: "Responsibilities"
