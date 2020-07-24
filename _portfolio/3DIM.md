@@ -1,7 +1,7 @@
 ---
 title: "3DIM"
 excerpt: "3D Interactive Map for VR"
-permalink: /portfolio/mega-macho-bros/
+permalink: /portfolio/3DIM/
 classes: wide
 header:
   image: # /assets/images/3DIM-Cover.jpg
