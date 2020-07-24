@@ -1,10 +1,10 @@
 ---
 title: "3DIM"
 excerpt: "3D Interactive Map for VR"
-permalink: /projects/3DIM/
+#permalink: /portfolio/3DIM/
 classes: wide
 header:
-  image: /assets/images/3DIM-Cover.jpg
+  image: #/assets/images/3DIM-Cover.jpg
   teaser: /assets/images/3DIM-Cover.jpg
 sidebar:
   - title: "My Role"
