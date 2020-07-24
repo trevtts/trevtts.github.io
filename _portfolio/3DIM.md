@@ -4,7 +4,7 @@ excerpt: "3D Interactive Map for VR"
 permalink: /portfolio/mega-macho-bros/
 classes: wide
 header:
-  image: /assets/images/3DIM-Cover.jpg
+  image: # /assets/images/3DIM-Cover.jpg
   teaser: /assets/images/3DIM-Cover.jpg
   overlay_filter: 0.0
 sidebar:
