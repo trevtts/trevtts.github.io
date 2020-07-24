@@ -5,6 +5,7 @@ classes: wide
 header:
   image: /assets/images/3DIM-Cover.jpg
   teaser: /assets/images/3DIM-Cover.jpg
+  overlay_filter: 1.0
 sidebar:
   - title: "My Role"
     image: /assets/images/3DIM-Cover.jpg
