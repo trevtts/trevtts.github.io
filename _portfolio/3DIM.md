@@ -1,6 +1,7 @@
 ---
 title: "3DIM"
 excerpt: "3D Interactive Map for VR"
+classes: wide
 header:
   image: #/assets/images/test.jpg
   teaser: # assets/images/test.jpg
@@ -21,6 +22,7 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
+    
 ---
 
 ## **About**
@@ -32,8 +34,8 @@ gallery:
 
 {% include gallery caption="Some screen shots of the project during development." %}
 
-## **Development Details**
-
+|## **Development Details**|
+|--------------------------|
 |**Status**|Ongoing|
 |**Product Type**|Real World Solution|
 |**Team Size**|2|
