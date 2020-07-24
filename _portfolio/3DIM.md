@@ -34,11 +34,11 @@ gallery:
 
 {% include gallery caption="Some screen shots of the project during development." %}
 
-|## **Development Details**|
-|--------------------------|
-|**Status**|Ongoing|
-|**Product Type**|Real World Solution|
-|**Team Size**|2|
-|**Development Platform**|Unity|
-|**Development Duration**|2 Months (As of now)|
-|**Language(s) Used**|C#|
+|**Development Details**                            |
+|---------------------------------------------------|
+|**Status**                 |Ongoing                |
+|**Product Type**           |Real World Solution    |
+|**Team Size**              |2                      |
+|**Development Platform**   |Unity                  |
+|**Development Duration**   |2 Months (As of now)   |
+|**Language(s) Used**       |C#                     |
