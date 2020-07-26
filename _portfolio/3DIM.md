@@ -18,14 +18,14 @@ gallery:
   - url: /assets/images/3DIM/3DIM-1.png
     image_path: assets/images/3DIM/3DIM-1.png
     alt: "image 1"
-  - url: /assets/images/3DIM/3DIM-3.png
+  - url: /assets/images/3DIM/3DIM-3.JPG
     image_path: assets/images/3DIM/3DIM-3.JPG
     alt: "image 3"
-  - url: /assets/images/3DIM/3DIM-4.png
-    image_path: /assets/images/3DIM/3DIM-4.JPG
+  - url: /assets/images/3DIM/3DIM-4.JPG
+    image_path: assets/images/3DIM/3DIM-4.JPG
     alt: "image 4"
-  - url: /assets/images/3DIM/3DIM-5.png
-    image_path: /assets/images/3DIM/3DIM-5.JPG
+  - url: /assets/images/3DIM/3DIM-5.JPG
+    image_path: assets/images/3DIM/3DIM-5.JPG
     alt: "image 5"
     
 ---
