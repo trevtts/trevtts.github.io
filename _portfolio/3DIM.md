@@ -4,26 +4,29 @@ excerpt: "3D Interactive Map for VR"
 permalink: /portfolio/3DIM/
 classes: wide
 header:
-  image: # /assets/images/3DIM-Cover.jpg
-  teaser: /assets/images/3DIM-Cover.jpg
+  image: # /assets/images/3DIM/3DIM-Cover.jpg
+  teaser: /assets/images/3DIM/3DIM-Cover.jpg
   overlay_filter: 0.0
 sidebar:
   - title: "My Role"
-    image: /assets/images/3DIM-Cover.jpg
+    image: /assets/images/3DIM/3DIM-Cover.jpg
     image_alt: "logo"
     text: "Tools Developer and Back-end Developer"
   - title: "Responsibilities"
     text: "To develop easy to use prefabs and a system to collate all data, and present them in a intuitive User Interface"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/3DIM/3DIM-1.png
+    image_path: assets/images/3DIM/3DIM-1.png
+    alt: "image 1"
+  - url: /assets/images/3DIM/3DIM-3.png
+    image_path: assets/images/3DIM/3DIM-3.JPG
+    alt: "image 3"
+  - url: /assets/images/3DIM/3DIM-4.png
+    image_path: /assets/images/3DIM/3DIM-4.JPG
+    alt: "image 4"
+  - url: /assets/images/3DIM/3DIM-5.png
+    image_path: /assets/images/3DIM/3DIM-5.JPG
+    alt: "image 5"
     
 ---
 
