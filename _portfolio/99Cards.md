@@ -11,25 +11,26 @@ sidebar:
   - title: "My Role"
     image: /assets/images/3DIM/3DIM-Cover.jpg
     image_alt: "logo"
-    text: "Tools Developer and Back-end Developer"
+    text: "Tools Developer and Game play Programmer"
   - title: "Responsibilities"
-    text: "To develop easy to use prefabs and a system to collate all data, and present them in a intuitive User Interface"
+    text: "To develop development tools to be used by designers and creating game play systems for the game"
 gallery:
-  - url: /assets/images/3DIM/3DIM-1.png
-    image_path: assets/images/3DIM/3DIM-1.png
+  - url: /assets/images/99Cards/99Cards-1.JPG
+    image_path: assets/images/99Cards/99Cards-1.JPG
     alt: "image 1"
-  - url: /assets/images/3DIM/3DIM-3.JPG
-    image_path: assets/images/3DIM/3DIM-3.JPG
+  - url: /assets/images/99Cards/99Cards-2.jpg
+    image_path: assets/images/99Cards/99Cards-2.jpg
+    alt: "image 2"
+  - url: /assets/images/99Cards/99Cards-3.jpg
+    image_path: assets/images/99Cards/99Cards-3.jpg
     alt: "image 3"
-  - url: /assets/images/3DIM/3DIM-4.JPG
-    image_path: assets/images/3DIM/3DIM-4.JPG
+  - url: /assets/images/99Cards/99Cards-4.jpg
+    image_path: assets/images/99Cards/99Cards-4.jpg
     alt: "image 4"
-  - url: /assets/images/3DIM/3DIM-5.JPG
-    image_path: assets/images/3DIM/3DIM-5.JPG
-    alt: "image 5"
-    
+  - url: /assets/images/99Cards/99Cards-Credits.jpg
+    image_path: assets/images/99Cards/99Cards-Credits.jpg
+    alt: "Credits"
 ---
-
 ## Gameplay Video
 
 {% include video id="qN476o_jXSo" provider="youtube" %}
@@ -49,7 +50,7 @@ Cheng Weng Tang
 [Vernon Tan](https://tyanshinvernon.wixsite.com/home)  
 Dion Chua  
 
-{% include gallery caption="Some screen shots of the project during development." %}
+{% include gallery caption="Some screen shots of the game." %}
 
 |**Development Details**                            |
 |---------------------------------------------------|
