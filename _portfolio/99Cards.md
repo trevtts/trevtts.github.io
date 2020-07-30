@@ -1,42 +1,64 @@
 ---
 title: "99Cards"
-excerpt: "Lorem Ipsum."
+excerpt: "2D Real Time Tactics Card Game"
+permalink: /portfolio/99Cards/
+classes: wide
 header:
-  image: #/assets/images/test.jpg
-  teaser: # assets/images/test.jpg
+  image: # /assets/images/99Cards/99Cards-Cover.jpg
+  teaser: /assets/images/99Cards/99Cards-Cover.jpg
+  overlay_filter: 0.0
 sidebar:
   - title: "My Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/99Cards/99Cards-Cover.jpg
     image_alt: "logo"
-    text: "Producer, Tools Developer, Gameplay Programmer, System Programmer"
+    text: "Tools Developer and Game play Programmer"
   - title: "Responsibilities"
-    text: "Manager of the development team, and the handyman there to fix any small issues"
-  - title: "Development Details"
-    text: "**Status**: Completed
-    <br>
-    **Product Type**: Game
-    <br>
-    **Team Size**: 10
-    <br>
-    **Developed Platform**: Custom Game Engine
-    <br>
-    **Development Duration**: 8 Months
-    <br>
-    **Language Used**: C++, C#"
+    text: "To develop development tools to be used by designers and creating game play systems for the game"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/99Cards/99Cards-1.png
+    image_path: assets/images/99Cards/99Cards-1.png
+    alt: "image 1"
+  - url: /assets/images/99Cards/99Cards-2.JPG
+    image_path: assets/images/99Cards/99Cards-2.JPG
+    alt: "image 2"
+  - url: /assets/images/99Cards/99Cards-3.JPG
+    image_path: assets/images/99Cards/99Cards-3.JPG
+    alt: "image 3"
+  - url: /assets/images/99Cards/99Cards-4.JPG
+    image_path: assets/images/99Cards/99Cards-4.JPG
+    alt: "image 4"
+   - url: /assets/images/99Cards/99Cards-Credits.JPG
+    image_path: assets/images/99Cards/99Cards-Credits.JPG
+    alt: "Credits"
+    
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Gameplay Video
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include video id="qN476o_jXSo" provider="youtube" %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+## **About**
+
+99 Cards is a real-time tactic card game where players have no direct control over their units. Instead, both allied and enemy units are both controlled by AI and the players are given a set of cards to indirectly influence units and change the flow of the battle in their favour. The charm of the game lies in trying to manipulate the AI and watch everything unfold according to plan.
+
+## **Who Did It?**
+
+3DIM is a 7 man student game project (GAM 200/GAM 250) done over 7 months by:  
+Darren Tey  
+Jonathan Yap  
+Brosnan Chia  
+[Treven Tan] (https://trevtts.github.io/)  
+Cheng Weng Tang  
+[Vernon Tan](https://tyanshinvernon.wixsite.com/home)  
+Dion Chua  
+
+{% include gallery caption="Some screen shots of the project during development." %}
+
+|**Development Details**                            |
+|---------------------------------------------------|
+|**Status**                 |Completed              |
+|**Product Type**           |School Game Project    |
+|**Team Size**              |7                      |
+|**Development Platform**   |Custom Game Engine     |
+|**Development Duration**   |7 Months               |
+|**Language(s) Used**       |C++                    |
