@@ -15,20 +15,20 @@ sidebar:
   - title: "Responsibilities"
     text: "To develop development tools to be used by designers and creating game play systems for the game"
 gallery:
-  - url: /assets/images/99Cards/99Cards-1.png
-    image_path: assets/images/99Cards/99Cards-1.png
+  - url: /assets/images/99Cards/99Cards-1.JPG
+    image_path: assets/images/99Cards/99Cards-1.JPG
     alt: "image 1"
-  - url: /assets/images/99Cards/99Cards-2.JPG
-    image_path: assets/images/99Cards/99Cards-2.JPG
+  - url: /assets/images/99Cards/99Cards-2.jpg
+    image_path: assets/images/99Cards/99Cards-2.jpg
     alt: "image 2"
-  - url: /assets/images/99Cards/99Cards-3.JPG
-    image_path: assets/images/99Cards/99Cards-3.JPG
+  - url: /assets/images/99Cards/99Cards-3.jpg
+    image_path: assets/images/99Cards/99Cards-3.jpg
     alt: "image 3"
-  - url: /assets/images/99Cards/99Cards-4.JPG
-    image_path: assets/images/99Cards/99Cards-4.JPG
+  - url: /assets/images/99Cards/99Cards-4.jpg
+    image_path: assets/images/99Cards/99Cards-4.jpg
     alt: "image 4"
-   - url: /assets/images/99Cards/99Cards-Credits.JPG
-    image_path: assets/images/99Cards/99Cards-Credits.JPG
+   - url: /assets/images/99Cards/99Cards-Credits.jpg
+    image_path: assets/images/99Cards/99Cards-Credits.jpg
     alt: "Credits"
     
 ---
