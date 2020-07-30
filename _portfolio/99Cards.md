@@ -5,7 +5,7 @@ permalink: /portfolio/99Cards/
 classes: wide
 header:
   image: # /assets/images/99Cards/99Cards-Cover.jpg
-  teaser: # /assets/images/99Cards/99Cards-Cover.jpg
+  teaser: /assets/images/99Cards/99Cards-Cover.jpg
   overlay_filter: 0.0
 sidebar:
   - title: "My Role"
@@ -15,10 +15,10 @@ sidebar:
   - title: "Responsibilities"
     text: "To develop development tools to be used by designers and creating game play systems for the game"
 gallery:
-  - url: # /assets/images/99Cards/99Cards-1.JPG
+  - url: /assets/images/99Cards/99Cards-1.JPG
     image_path: assets/images/99Cards/99Cards-1.JPG
     alt: "image 1"
-  - url: # /assets/images/99Cards/99Cards-2.jpg
+  - url: /assets/images/99Cards/99Cards-2.jpg
     image_path: assets/images/99Cards/99Cards-2.jpg
     alt: "image 2"
   - url: /assets/images/99Cards/99Cards-3.jpg
