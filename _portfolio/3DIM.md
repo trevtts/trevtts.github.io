@@ -36,7 +36,9 @@ gallery:
 
 ## **Who Did It?**
 
-3DIM is a 2 man student project (GAT 399 Module) done by Treven Tan and [Austin John Hernandez](https://austinjrh.wixsite.com/portfolio).
+3DIM is a 2 man student project (GAT 399 Module) done by:  
+[Treven Tan](https://trevtts.github.io/)  
+[Austin John Hernandez](https://austinjrh.wixsite.com/portfolio).
 
 {% include gallery caption="Some screen shots of the project during development." %}
 
