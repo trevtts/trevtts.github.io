@@ -5,20 +5,20 @@ permalink: /portfolio/99Cards/
 classes: wide
 header:
   image: # /assets/images/99Cards/99Cards-Cover.jpg
-  teaser: /assets/images/99Cards/99Cards-Cover.jpg
+  teaser: # /assets/images/99Cards/99Cards-Cover.jpg
   overlay_filter: 0.0
 sidebar:
   - title: "My Role"
-    image: /assets/images/99Cards/99Cards-Cover.jpg
+    image: # /assets/images/99Cards/99Cards-Cover.jpg
     image_alt: "logo"
     text: "Tools Developer and Game play Programmer"
   - title: "Responsibilities"
     text: "To develop development tools to be used by designers and creating game play systems for the game"
 gallery:
-  - url: /assets/images/99Cards/99Cards-1.JPG
+  - url: # /assets/images/99Cards/99Cards-1.JPG
     image_path: assets/images/99Cards/99Cards-1.JPG
     alt: "image 1"
-  - url: /assets/images/99Cards/99Cards-2.jpg
+  - url: # /assets/images/99Cards/99Cards-2.jpg
     image_path: assets/images/99Cards/99Cards-2.jpg
     alt: "image 2"
   - url: /assets/images/99Cards/99Cards-3.jpg
@@ -30,7 +30,6 @@ gallery:
    - url: /assets/images/99Cards/99Cards-Credits.jpg
     image_path: assets/images/99Cards/99Cards-Credits.jpg
     alt: "Credits"
-    
 ---
 
 ## Gameplay Video
@@ -47,7 +46,7 @@ gallery:
 Darren Tey  
 Jonathan Yap  
 Brosnan Chia  
-[Treven Tan] (https://trevtts.github.io/)  
+[Treven Tan](https://trevtts.github.io/)  
 Cheng Weng Tang  
 [Vernon Tan](https://tyanshinvernon.wixsite.com/home)  
 Dion Chua  
