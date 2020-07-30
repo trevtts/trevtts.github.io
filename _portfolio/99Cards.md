@@ -4,12 +4,12 @@ excerpt: "2D Real Time Tactics Card Game"
 permalink: /portfolio/99Cards/
 classes: wide
 header:
-  image: # /assets/images/3DIM/3DIM-Cover.jpg
-  teaser: /assets/images/3DIM/3DIM-Cover.jpg
+  image: # /assets/images/99Cards/99Cards-Cover.jpg
+  teaser: /assets/images/99Cards/99Cards-Cover.jpg
   overlay_filter: 0.0
 sidebar:
   - title: "My Role"
-    image: /assets/images/3DIM/3DIM-Cover.jpg
+    image: /assets/images/99Cards/99Cards-Cover.jpg
     image_alt: "logo"
     text: "Tools Developer and Game play Programmer"
   - title: "Responsibilities"
@@ -31,7 +31,6 @@ gallery:
     image_path: assets/images/99Cards/99Cards-Credits.jpg
     alt: "Credits"
 ---
-## Gameplay Video
 
 {% include video id="qN476o_jXSo" provider="youtube" %}
 
