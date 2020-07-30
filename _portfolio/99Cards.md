@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.0
 sidebar:
   - title: "My Role"
-    image: # /assets/images/99Cards/99Cards-Cover.jpg
+    image: /assets/images/99Cards/99Cards-Cover.jpg
     image_alt: "logo"
     text: "Tools Developer and Game play Programmer"
   - title: "Responsibilities"
