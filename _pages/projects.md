@@ -8,4 +8,3 @@ author_profile: true
 classes: wide
 ---
 
-# This page is currently under construction
