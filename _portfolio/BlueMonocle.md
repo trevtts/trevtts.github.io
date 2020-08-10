@@ -16,7 +16,7 @@ sidebar:
     text: "To implement core mechanics of the game and the AIs behaviours"
 ---
 
-{% include video id="JHio5HML8Q" provider="youtube" %}
+{% include video id="-JHio5HML8Q" provider="youtube" %}
 
 ## **About**
 
