@@ -44,9 +44,9 @@ gallery:
 
 |**Development Details**                            |
 |---------------------------------------------------|
-|**Status**                 |Ongoing                |
+|**Status**                 |Completed              |
 |**Product Type**           |Real World Solution    |
 |**Team Size**              |2                      |
 |**Development Platform**   |Unity                  |
-|**Development Duration**   |2 Months (As of now)   |
+|**Development Duration**   |3 Months               |
 |**Language(s) Used**       |C#                     |

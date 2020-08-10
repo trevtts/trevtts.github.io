@@ -1,42 +1,41 @@
 ---
-title: "Blue Monocle"
-excerpt: "Lorem Ipsum."
+title: "BlueMonocle"
+excerpt: "2D Stealth Platformer Game"
+permalink: /portfolio/BlueMonocle/
+classes: wide
 header:
-  image: #/assets/images/test.jpg
-  teaser: # assets/images/test.jpg
+  image: # /assets/images/BlueMonocle/BlueMonocle-Cover.jpg
+  teaser: /assets/images/BlueMonocle/BlueMonocle-Cover.jpg
+  overlay_filter: 0.0
 sidebar:
   - title: "My Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/BlueMonocle/BlueMonocle-Cover.jpg
     image_alt: "logo"
-    text: "Producer, Tools Developer, Gameplay Programmer, System Programmer"
+    text: "Gameplay Programmer"
   - title: "Responsibilities"
-    text: "Manager of the development team, and the handyman there to fix any small issues"
-  - title: "Development Details"
-    text: "**Status**: Completed
-    <br>
-    **Product Type**: Game
-    <br>
-    **Team Size**: 10
-    <br>
-    **Developed Platform**: Custom Game Engine
-    <br>
-    **Development Duration**: 8 Months
-    <br>
-    **Language Used**: C++, C#"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    text: "To implement core mechanics of the game and the AIs behaviours"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+{% include video id="JHio5HML8Q" provider="youtube" %}
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+## **About**
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Blue Monocle is a 2D Stealth Platformer Game where the player will play as the elusive master thief Blue Monocle. Players would have to avoid the guards by observing their patrol path and sneak pass them, and if all else fail a trusty smoke bomb will still get the job done.  
+
+## **Who Did It?**
+
+Blue Monocle is a 4 man Final Year Project done over 3 months by:  
+Mauricio Manuel Franco Martinez  
+Ong Rui Zong  
+Jeremiah Timothy Francis  
+[Treven Tan](https://trevtts.github.io/)  
+
+
+|**Development Details**                            |
+|---------------------------------------------------|
+|**Status**                 |Completed              |
+|**Product Type**           |School Game Project    |
+|**Team Size**              |4                      |
+|**Development Platform**   |Unity                  |
+|**Development Duration**   |3 Months               |
+|**Language(s) Used**       |C#                     |

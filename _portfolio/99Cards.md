@@ -11,7 +11,7 @@ sidebar:
   - title: "My Role"
     image: /assets/images/99Cards/99Cards-Cover.jpg
     image_alt: "logo"
-    text: "Tools Developer and Game play Programmer"
+    text: "Tools Developer and Gameplay Programmer"
   - title: "Responsibilities"
     text: "To develop development tools to be used by designers and creating game play systems for the game"
 gallery:
@@ -40,9 +40,9 @@ gallery:
 
 ## **Who Did It?**
 
-3DIM is a 7 man student game project (GAM 200/GAM 250) done over 7 months by:  
+99 Cards is a 7 man student game project (GAM 200/GAM 250) done over 7 months by:  
 Darren Tey  
-Jonathan Yap  
+[Jonathan Yap](https://www.behance.net/Johnnyvorg)  
 Brosnan Chia  
 [Treven Tan](https://trevtts.github.io/)  
 Cheng Weng Tang  
